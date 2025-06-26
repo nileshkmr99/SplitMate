@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 poetry.toml
+db.sqlite3
